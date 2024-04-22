@@ -1,0 +1,26 @@
+/* estilo para las imagenes */
+img {
+    display: block;
+    margin: 0;
+    max-width: 100px; /* tamaño*/
+    border-radius: 100px;
+    box-shadow: 0 2px 6px rgba(202, 21, 21, 0.1);
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}   
+
+.looo:hover {
+color: #d53266;
+}
+
+.looo2:hover {
+    color: #da9c0c;
+    }
